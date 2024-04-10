@@ -480,12 +480,9 @@ width: 300%;}
 @media(max-width: 700px){
 .ed {
     background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(schhool.jpg);
-    z-index: 1;
-    
-
     }
 .textbox{
-    z-index: 1;
+    
 }
 .textbox h1{
     font-size: 40px;
